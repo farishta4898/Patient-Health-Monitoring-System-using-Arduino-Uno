@@ -10,14 +10,14 @@
   2. <a href="https://www.arduino.cc/"> Arduino IDE</a><br>
   3. <a href="https://www.ni.com/en-us/shop/labview.html"> LabVIEW</a></h4>
   <br><br>
-<h3>Description:</h3><br><br> Our health monitoring system simulates two major aspects of health and
+<h3>Description:</h3><br> Our health monitoring system simulates two major aspects of health and
 wellbeing – 1) Temperature and 2) Heart Beat Rate. It presents the numerical value of these
 two aspects and maintains a data logger system where the patient’s data can be stored and
 reviewed for medical history and check-up purpose collectively. Along with that the output
 values can be viewed through waveform chart. The circuit output values in the LED represent
 the current heartbeat, time in second, heartbeat per minute and body temperature.<br><br><br>
 
-<h3>Component(s):</h3></h3><br><br>
+<h3>Component(s):</h3><br>
 i. Microcontroller: Arduino Uno <br>
 ii. Sensors: <br>a. Heartbeat Sensor 2 <br>
 b. LM35 Temperature Sensor <br>
@@ -26,11 +26,11 @@ iv. Potentiometer <br>
 v. Button <br>
 vi. Resistors <br>
 
-<h3>LabView (GUI):</h3><br><br>
+<h3>LabView (GUI):</h3><br>
 i. Numerical output values in a data logger system <br>
 ii. Waveform of the output <br>
 
-<h3>Circuit Output:</h3><br><br>
+<h3>Circuit Output:</h3><br>
 i. Current Heartbeat <br>
 ii. Total Time (seconds) <br>
 iii. Heartbeat per minute <br>
