@@ -5,9 +5,9 @@
   1. <a href="https://www.labcenter.com/"> Proteus</a> <br>
   2. <a href="https://www.arduino.cc/"> Arduino IDE</a><br>
   3. <a href="https://www.ni.com/en-us/shop/labview.html"> LabVIEW</a></h4>
-<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" style="height: 50px; width: 100px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" style="height: 50px; width: 100px">
-<img src="https://www.pngkey.com/png/full/802-8022387_ni-labview-2017-logo.png" style="height: 50px; width: 100px">
+<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" width="200" height="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" swidth="200" height="400">
+<img src="https://www.pngkey.com/png/full/802-8022387_ni-labview-2017-logo.png" width="200" height="400">
 
 <h3>Description:</h3><br><br> Our health monitoring system simulates two major aspects of health and
 wellbeing – 1) Temperature and 2) Heart Beat Rate. It presents the numerical value of these
