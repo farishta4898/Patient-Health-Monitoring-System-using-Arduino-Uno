@@ -23,8 +23,9 @@ the current heartbeat, time in second, heartbeat per minute and body temperature
 
 <h3>Component(s):</h3><br>
 i. Microcontroller: Arduino Uno <br>
-ii. Sensors: <br>a. Heartbeat Sensor 2 <br>
-b. LM35 Temperature Sensor <br>
+ii. Sensors: <br><ul>
+  <li>a. Heartbeat Sensor 2 </li>
+  <li> LM35 Temperature Sensor </li>
 iii. LCD Display: LCD 20X4 <br>
 iv. Potentiometer <br>
 v. Button <br>
