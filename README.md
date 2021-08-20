@@ -1,14 +1,15 @@
 # Patient-Health-Monitoring-System-using-Arduino-Uno
 <h4>Contributors: <a href="https://github.com/AlphaDog707">Arman Hossain</a>, <a href="https://github.com/farishta4898">Farishta Kabir</a>, <a href="https://github.com/Noor131">Ahmed Ann Noor Ryen</a></h4>
 <br><br>
+
+<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" width="400" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" swidth="100" height="100">
+<img src="https://www.pngkey.com/png/full/802-8022387_ni-labview-2017-logo.png" width="400" height="100">
 <h4>Software: <br>
   1. <a href="https://www.labcenter.com/"> Proteus</a> <br>
   2. <a href="https://www.arduino.cc/"> Arduino IDE</a><br>
   3. <a href="https://www.ni.com/en-us/shop/labview.html"> LabVIEW</a></h4>
-<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" width="400" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" swidth="100" height="100">
-<img src="https://www.pngkey.com/png/full/802-8022387_ni-labview-2017-logo.png" width="400" height="100">
-
+  <br><br>
 <h3>Description:</h3><br><br> Our health monitoring system simulates two major aspects of health and
 wellbeing – 1) Temperature and 2) Heart Beat Rate. It presents the numerical value of these
 two aspects and maintains a data logger system where the patient’s data can be stored and
