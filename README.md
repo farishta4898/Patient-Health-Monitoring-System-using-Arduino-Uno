@@ -10,6 +10,7 @@
 1. <a href="https://www.labcenter.com/"> Proteus</a> <br>
 2. <a href="https://www.arduino.cc/"> Arduino IDE</a><br>
 3. <a href="https://www.ni.com/en-us/shop/labview.html"> LabVIEW</a></h4> </li>
+<li>Project Video Link:<a href="https://www.youtube.com/watch?v=M4CsVMnoFUY"> Click Here</a></li>
 <li>Project Contributors: <a href="https://github.com/AlphaDog707">Arman Hossain</a>, <a href="https://github.com/farishta4898">Farishta Kabir</a>, <a href="https://github.com/Noor131">Ahmed Ann Noor Ryen</a></li>
 </ul>
 
