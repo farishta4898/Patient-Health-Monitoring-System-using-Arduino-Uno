@@ -10,7 +10,6 @@
 1. <a href="https://www.labcenter.com/"> Proteus</a> <br>
 2. <a href="https://www.arduino.cc/"> Arduino IDE</a><br>
 3. <a href="https://www.ni.com/en-us/shop/labview.html"> LabVIEW</a></h4> </li>
-<li>Project Video Link: <a href="https://www.youtube.com/watch?v=m9NCCnaj1fs">Click Here</a></li>
 <li>Project Contributors: <a href="https://github.com/AlphaDog707">Arman Hossain</a>, <a href="https://github.com/farishta4898">Farishta Kabir</a>, <a href="https://github.com/Noor131">Ahmed Ann Noor Ryen</a></li>
 </ul>
 
@@ -24,7 +23,7 @@ the current heartbeat, time in second, heartbeat per minute and body temperature
 <h3>Component(s):</h3><br>
 i. Microcontroller: Arduino Uno <br>
 ii. Sensors: <br><ul>
-  <li>a. Heartbeat Sensor 2 </li>
+  <li> Heartbeat Sensor 2 </li>
   <li> LM35 Temperature Sensor </li></ul>
 iii. LCD Display: LCD 20X4 <br>
 iv. Potentiometer <br>
