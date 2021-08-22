@@ -24,7 +24,7 @@ the current heartbeat, time in second, heartbeat per minute and body temperature
 <h3>Component(s):</h3><br>
 i. Microcontroller: Arduino Uno <br>
 ii. Sensors: <br><ul>
-  <li> Heartbeat Sensor 2 </li>
+  <li> Heartbeat Sensor 2 <a href="https://www.theengineeringprojects.com/2017/11/heart-beat-sensor-library-v2-0-for-proteus.html">(Download the library form here)</a></li>
   <li> LM35 Temperature Sensor </li></ul>
 iii. LCD Display: LCD 20X4 <br>
 iv. Potentiometer <br>
@@ -41,4 +41,4 @@ ii. Total Time (seconds) <br>
 iii. Heartbeat per minute <br>
 iv. Body Temperature <br>
 
-<h5>Reference: https://www.labcenter.com/, https://www.arduino.cc/, https://www.ni.com/en-us/shop/labview.html </h5>
+<h5>Reference: https://www.labcenter.com/, https://www.arduino.cc/, https://www.ni.com/en-us/shop/labview.html, https://www.theengineeringprojects.com/</h5>
