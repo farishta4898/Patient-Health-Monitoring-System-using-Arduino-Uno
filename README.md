@@ -26,10 +26,9 @@ i. Microcontroller: Arduino Uno <br>
 ii. Sensors: <br><ul>
   <li> Heartbeat Sensor 2 <a href="https://www.theengineeringprojects.com/2017/11/heart-beat-sensor-library-v2-0-for-proteus.html">(Download the library form here)</a></li>
   <li> LM35 Temperature Sensor </li></ul>
-iii. LCD Display: LCD 20X4 <br>
-iv. Potentiometer <br>
-v. Button <br>
-vi. Resistors <br>
+iii. Potentiometer <br>
+iv. Button <br>
+v. Resistors <br>
 
 <h3>LabView (GUI):</h3><br>
 i. Numerical output values in a data logger system <br>
